@@ -1,7 +1,7 @@
 ### Hi, I'm Martins Ogiekpolor
+I take raw, imperfect data and turn it into tested, monitored systems, with models that explain their reasoning in plain language.
 
-I build data projects for **banking, payments and finance**: pipelines, warehouses, risk models
-and the dashboards people use to make decisions, on real data wherever I can.
+I’m drawn to problems where good data changes real decisions, whether in finance, healthcare, technology or energy. The tools change from sector to sector; the approach doesn’t: understand the domain, check the data, measure honestly, and say clearly where the work falls short.
 
 **Tools:** Python · SQL · PySpark · Databricks · Snowflake · dbt · Apache Airflow · MLflow · Power BI · Tableau · Excel · Docker
 
